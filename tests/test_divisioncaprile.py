@@ -1,4 +1,4 @@
-from funciones.dividir import dividir 
+from funciones.divisioncaprile import dividir 
 
 def test_dividir(): 
     assert dividir(10, 2) == 5 
